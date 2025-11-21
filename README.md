@@ -20,5 +20,5 @@ Each day’s tasks, notes, and code snippets will be organized for easy referenc
 
 ---
 
-### 🚀 Goal
+###  Goal
 To explore AI-driven workflows, automation, and development practices over 30 days, building practical skills and projects.
