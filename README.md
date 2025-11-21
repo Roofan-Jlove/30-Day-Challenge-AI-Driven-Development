@@ -8,11 +8,11 @@
 
 ---
 
-### 📌 Overview
+###  Overview
 This repository documents the progress and learnings from the **AI-Driven Development - 30-Day Challenge**.  
 Each day’s tasks, notes, and code snippets will be organized for easy reference and review.
 
-### 📂 Structure
+###  Structure
 - `Task 1-01` → Initial setup and introduction  
 - `Task-02` → First coding exercise  
 - `...`  
